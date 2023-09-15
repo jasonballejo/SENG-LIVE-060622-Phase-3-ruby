@@ -1,7 +1,7 @@
 ## 1. OO Ruby pt1
 ### SWBAT
 
-- [ ] Explain the purpose of Object Orientation and why it’s a popular design pattern
+- [ ] Explain the purpose of Object Orientation and why it’s a popular design pattern.
 - [ ] Explain what a factory object is
 - [ ] Observe how to use require to work with multiple files in a single document
 - [ ] Observe how to create a class and an instance
